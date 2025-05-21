@@ -5,3 +5,4 @@ edition = "2021"
 description = "A small and fast frontend framework in Rust"
 # clarify the control flow
 # match the style used in the rest of the module
+# match the style used in the rest of the module
